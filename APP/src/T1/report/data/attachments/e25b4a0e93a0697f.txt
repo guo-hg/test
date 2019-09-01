@@ -1,0 +1,4 @@
+[32mINFO    [0m filename:test_1.py:23 连接成功
+[32mINFO    [0m filename:test_1.py:29 账号输入成功
+[32mINFO    [0m filename:test_1.py:34 密码输入正确
+[32mINFO    [0m filename:test_1.py:39 成功登录

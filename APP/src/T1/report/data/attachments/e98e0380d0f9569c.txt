@@ -1,0 +1,2 @@
+[32mINFO    [0m filename:test_1.py:46 登录成功之后向上滑动成功
+[32mINFO    [0m filename:test_1.py:49 登录成功之后向下滑动成功

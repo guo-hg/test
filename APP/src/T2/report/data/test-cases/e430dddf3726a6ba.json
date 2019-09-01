@@ -1,0 +1,104 @@
+{
+  "uid" : "e430dddf3726a6ba",
+  "name" : "test_4",
+  "fullName" : "test_1#test_4",
+  "historyId" : "c8cd82c99acc944c4aab84b5eddb6ed6",
+  "time" : {
+    "start" : 1566182588818,
+    "stop" : 1566182588819,
+    "duration" : 1
+  },
+  "description" : "\n    这是对函数参数，返回值的一个讲解\n    感觉很nice\n    ",
+  "descriptionHtml" : "<pre><code>这是对函数参数，返回值的一个讲解\n感觉很nice\n</code></pre>\n",
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert '香港屌丝很多' in 'china'",
+  "statusTrace" : "@allure.feature(\"模块二\")\n    @allure.story(\"这是一个很垃圾的测试用例\")\n    def test_4():\n        \"\"\"\n        这是对函数参数，返回值的一个讲解\n        感觉很nice\n        \"\"\"\n        #测试用例的描述是通过函数的注释来获取到的\n    \n>       assert  \"香港屌丝很多\" in \"china\"\nE       AssertionError: assert '香港屌丝很多' in 'china'\n\ntest_1.py:34: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "模块二"
+  }, {
+    "name" : "story",
+    "value" : "这是一个很垃圾的测试用例"
+  }, {
+    "name" : "parentSuite"
+  }, {
+    "name" : "suite",
+    "value" : "test_1"
+  }, {
+    "name" : "subSuite"
+  }, {
+    "name" : "host",
+    "value" : "pc-guohonggang"
+  }, {
+    "name" : "thread",
+    "value" : "8808-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "8181161688480616",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert '香港屌丝很多' in 'china'",
+      "time" : {
+        "start" : 1566182361870,
+        "stop" : 1566182361870,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "fc79e7f0daf5b41f",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert '香港屌丝很多' in 'china'",
+      "time" : {
+        "start" : 1566181491904,
+        "stop" : 1566181491904,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "4ea62d316c2f6373",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert '香港屌丝很多' in 'china'",
+      "time" : {
+        "start" : 1566180593466,
+        "stop" : 1566180593466,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "bac9773571505015",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert '香港屌丝很多' in 'china'",
+      "time" : {
+        "start" : 1566179241882,
+        "stop" : 1566179241883,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "e430dddf3726a6ba.json",
+  "parameterValues" : [ ]
+}

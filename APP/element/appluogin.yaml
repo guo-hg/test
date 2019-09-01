@@ -1,0 +1,43 @@
+---
+
+# 登录页面，点击密码按钮的ID
+dianji: com.qk.butterfly:id/v_login_pwd
+# 输入账号的ID
+zhanghao: com.qk.butterfly:id/et_login_phone
+# 输入密码的ID
+mima: com.qk.butterfly:id/et_login_pwd
+# 单击确定的ID
+denglu: com.qk.butterfly:id/tv_to_login
+# 登录成功之后(直播)的ID
+zhibo: com.qk.butterfly:id/tv_home_live
+# 我的ID
+#wode:
+#  -android:id/tabs
+#  -com.qk.butterfly:id/v_main_tab
+# 成功点击“我的”跳转之后的界面的ID
+bianji: com.qk.butterfly:id/v_me_detail
+# 设置的ID
+shezhi: com.qk.butterfly:id/v_me_setting
+#  编辑资料的ID
+ziliao: com.qk.butterfly:id/v_me_detail
+# 跳转至编辑页面的ID
+bian: com.qk.butterfly:id/tv_title
+# 头像的ID
+tou: com.qk.butterfly:id/v_profile_header
+# 本机相册寻找照片更换的ID
+pian: com.qk.butterfly:id/btn_album
+# 选择照片的ID
+xuanze: com.qk.butterfly:id/iv_1
+# 保存的ID
+baocun: com.qk.butterfly:id/save
+# 取消的ID
+quxiao: com.qk.butterfly:id/tv_back
+# 保存更改后的资料的ID
+chenggong: com.qk.butterfly:id/tv_top_right
+# 退出登录的ID
+ok: com.qk.butterfly:id/v_set_out
+#确认成功退出的ID
+ok1: com.qk.butterfly:id/tv_ok
+
+
+

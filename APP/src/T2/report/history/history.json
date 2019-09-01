@@ -1,0 +1,236 @@
+{
+  "3cad8cfacf91c8b31a8a3083c9e43271" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cb8c348e12522f39",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566182588770,
+        "stop" : 1566182588770,
+        "duration" : 0
+      }
+    } ]
+  },
+  "2588b602c853a291dd3fec024efaad8a" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e327fc2841fe40e1",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 3 == 5",
+      "time" : {
+        "start" : 1566182588857,
+        "stop" : 1566182588858,
+        "duration" : 1
+      }
+    } ]
+  },
+  "4f8d75905670b2281bfeb7f8ea2460fd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d32bd4d0e0c9e479",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566182588880,
+        "stop" : 1566182588880,
+        "duration" : 0
+      }
+    } ]
+  },
+  "c8cd82c99acc944c4aab84b5eddb6ed6" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e430dddf3726a6ba",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert '香港屌丝很多' in 'china'",
+      "time" : {
+        "start" : 1566182588818,
+        "stop" : 1566182588819,
+        "duration" : 1
+      }
+    } ]
+  },
+  "8e250c7564fd7f5fed086f57289efe6d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5aa2ab58b965e189",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566182588888,
+        "stop" : 1566182588889,
+        "duration" : 1
+      }
+    } ]
+  },
+  "3d596e8527c418dee23485086c99e22a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ae3364f617ea46f9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566182588777,
+        "stop" : 1566182588778,
+        "duration" : 1
+      }
+    } ]
+  },
+  "5573ca69ec5a612ab6ebd2e4e95d945e" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b0370aad53f7b460",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 0 > 123213",
+      "time" : {
+        "start" : 1566182588785,
+        "stop" : 1566182588785,
+        "duration" : 0
+      }
+    } ]
+  },
+  "7b3a5ac7ed95b89b2a893d590a2f37ff" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "67c7228055356f94",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 0 == 1",
+      "time" : {
+        "start" : 1566182588832,
+        "stop" : 1566182588832,
+        "duration" : 0
+      }
+    } ]
+  },
+  "cf3d2d54d7d03bd0942f84260d5454c3" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9719a991343e4405",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 3 == 4",
+      "time" : {
+        "start" : 1566182361945,
+        "stop" : 1566182361945,
+        "duration" : 0
+      }
+    } ]
+  },
+  "bf606935594bac11c808a8243f2bf3a4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8fa95a6b70e56053",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566182588842,
+        "stop" : 1566182588843,
+        "duration" : 1
+      }
+    } ]
+  },
+  "fc9cd1853da117e076fb9e72087697f5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5f7d413b650f6d11",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566182588850,
+        "stop" : 1566182588850,
+        "duration" : 0
+      }
+    } ]
+  },
+  "4bfd404cc156e55d67f452d47146152a" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c70dd13cd61e08a2",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 3 == 4",
+      "time" : {
+        "start" : 1566182588869,
+        "stop" : 1566182588870,
+        "duration" : 1
+      }
+    } ]
+  }
+}

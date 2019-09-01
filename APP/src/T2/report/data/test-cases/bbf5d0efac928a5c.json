@@ -1,0 +1,60 @@
+{
+  "uid" : "bbf5d0efac928a5c",
+  "name" : "test_3",
+  "fullName" : "test_1#test_3",
+  "historyId" : "5573ca69ec5a612ab6ebd2e4e95d945e",
+  "time" : {
+    "start" : 1566179241820,
+    "stop" : 1566179241821,
+    "duration" : 1
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 0 > 123213",
+  "statusTrace" : "@allure.feature(\"模块二\")\n    @allure.story(\"这是一个很棒的测试用例\")\n    def test_3():\n>       assert  0 > 123213\nE       assert 0 > 123213\n\ntest_1.py:23: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "这是一个很棒的测试用例"
+  }, {
+    "name" : "feature",
+    "value" : "模块二"
+  }, {
+    "name" : "parentSuite"
+  }, {
+    "name" : "suite",
+    "value" : "test_1"
+  }, {
+    "name" : "subSuite"
+  }, {
+    "name" : "host",
+    "value" : "pc-guohonggang"
+  }, {
+    "name" : "thread",
+    "value" : "1896-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bbf5d0efac928a5c.json",
+  "parameterValues" : [ ]
+}

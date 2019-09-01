@@ -1,0 +1,107 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: assert 3 == 4",
+      "children" : [ {
+        "name" : "test_10",
+        "uid" : "9719a991343e4405",
+        "parentUid" : "790dc4e06bbf460c609ce3cf08817579",
+        "status" : "failed",
+        "time" : {
+          "start" : 1566182361945,
+          "stop" : 1566182361945,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_9",
+        "uid" : "c70dd13cd61e08a2",
+        "parentUid" : "790dc4e06bbf460c609ce3cf08817579",
+        "status" : "failed",
+        "time" : {
+          "start" : 1566182588869,
+          "stop" : 1566182588870,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "790dc4e06bbf460c609ce3cf08817579"
+    }, {
+      "name" : "AssertionError: assert 0 > 123213",
+      "children" : [ {
+        "name" : "test_3",
+        "uid" : "b0370aad53f7b460",
+        "parentUid" : "9dd2c7ee98cfeb508984f12ddea15d9d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1566182588785,
+          "stop" : 1566182588785,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9dd2c7ee98cfeb508984f12ddea15d9d"
+    }, {
+      "name" : "AssertionError: assert '香港屌丝很多' in 'china'",
+      "children" : [ {
+        "name" : "test_4",
+        "uid" : "e430dddf3726a6ba",
+        "parentUid" : "aa78d6a2fc8df001c7bc3af10165ab41",
+        "status" : "failed",
+        "time" : {
+          "start" : 1566182588818,
+          "stop" : 1566182588819,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "aa78d6a2fc8df001c7bc3af10165ab41"
+    }, {
+      "name" : "AssertionError: assert 0 == 1",
+      "children" : [ {
+        "name" : "test_5",
+        "uid" : "67c7228055356f94",
+        "parentUid" : "4aa308f7dbecae29a058295957a40c45",
+        "status" : "failed",
+        "time" : {
+          "start" : 1566182588832,
+          "stop" : 1566182588832,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4aa308f7dbecae29a058295957a40c45"
+    }, {
+      "name" : "AssertionError: assert 3 == 5",
+      "children" : [ {
+        "name" : "test_8",
+        "uid" : "e327fc2841fe40e1",
+        "parentUid" : "569189c7c396ead837897b584b2a3711",
+        "status" : "failed",
+        "time" : {
+          "start" : 1566182588857,
+          "stop" : 1566182588858,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "569189c7c396ead837897b584b2a3711"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

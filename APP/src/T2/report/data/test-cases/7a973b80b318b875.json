@@ -1,0 +1,94 @@
+{
+  "uid" : "7a973b80b318b875",
+  "name" : "test_13",
+  "fullName" : "test_1#test_13",
+  "historyId" : "8e250c7564fd7f5fed086f57289efe6d",
+  "time" : {
+    "start" : 1566182361965,
+    "stop" : 1566182361965,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "字符串相加:'hello','world'",
+      "time" : {
+        "start" : 1566182361965,
+        "stop" : 1566182361965,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "str1",
+        "value" : "'hello'"
+      }, {
+        "name" : "str2",
+        "value" : "'world'"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "模块五"
+  }, {
+    "name" : "parentSuite"
+  }, {
+    "name" : "suite",
+    "value" : "test_1"
+  }, {
+    "name" : "subSuite"
+  }, {
+    "name" : "host",
+    "value" : "pc-guohonggang"
+  }, {
+    "name" : "thread",
+    "value" : "4352-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "http://www.testlink.com",
+    "url" : "http://www.testlink.com",
+    "type" : "test_case"
+  }, {
+    "name" : "http://www.baidu.com",
+    "url" : "http://www.baidu.com",
+    "type" : "issue"
+  } ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7a973b80b318b875.json",
+  "parameterValues" : [ ]
+}
