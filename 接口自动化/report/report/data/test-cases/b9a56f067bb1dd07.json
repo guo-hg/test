@@ -1,0 +1,104 @@
+{
+  "uid" : "b9a56f067bb1dd07",
+  "name" : "test_1[b3604bc490b8ba559f72b9b912f28bc9-12qw自己31./$]",
+  "fullName" : "src.T1.test_2#test_1[b3604bc490b8ba559f72b9b912f28bc9-12qw自己31./$]",
+  "historyId" : "7cf06c7ae8a4339ca49918411671675d",
+  "time" : {
+    "start" : 1567170202254,
+    "stop" : 1567170202388,
+    "duration" : 134
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "jk",
+    "time" : {
+      "start" : 1567170201359,
+      "stop" : 1567170201359,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "bb820802595713a2",
+      "name" : "log",
+      "source" : "bb820802595713a2.txt",
+      "type" : "text/plain",
+      "size" : 134
+    }, {
+      "uid" : "27f00053d9f385cc",
+      "name" : "stdout",
+      "source" : "27f00053d9f385cc.txt",
+      "type" : "text/plain",
+      "size" : 395
+    }, {
+      "uid" : "fc1c3997b88b69e6",
+      "name" : "stderr",
+      "source" : "fc1c3997b88b69e6.txt",
+      "type" : "text/plain",
+      "size" : 143
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "src.T1"
+  }, {
+    "name" : "suite",
+    "value" : "test_2"
+  }, {
+    "name" : "subSuite"
+  }, {
+    "name" : "host",
+    "value" : "pc-guohonggang"
+  }, {
+    "name" : "thread",
+    "value" : "19652-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "src.T1.test_2"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "x",
+    "value" : "'b3604bc490b8ba559f72b9b912f28bc9'"
+  }, {
+    "name" : "y",
+    "value" : "'12qw自己31./$'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b9a56f067bb1dd07.json",
+  "parameterValues" : [ "'b3604bc490b8ba559f72b9b912f28bc9'", "'12qw自己31./$'" ]
+}

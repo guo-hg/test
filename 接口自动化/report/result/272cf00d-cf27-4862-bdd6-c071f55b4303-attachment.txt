@@ -1,0 +1,1 @@
+{'reason': 'success', 'result': [{'word': '自', 'telecode': '5261'}, {'word': '己', 'telecode': '1569'}], 'error_code': 0}

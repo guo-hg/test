@@ -1,0 +1,103 @@
+{
+  "uid" : "3a4298d8614ab5e",
+  "name" : "test_1[b3604bc490b8ba559f72b9b912f28bc9-[[].'' /]",
+  "fullName" : "test_2#test_1[b3604bc490b8ba559f72b9b912f28bc9-[[].'' /]",
+  "historyId" : "e31cc03fcc74d88b49a96e3ab92987cf",
+  "time" : {
+    "start" : 1567167235418,
+    "stop" : 1567167235626,
+    "duration" : 208
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "jk",
+    "time" : {
+      "start" : 1567167234170,
+      "stop" : 1567167234170,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "67f361d4ec6d4b34",
+      "name" : "log",
+      "source" : "67f361d4ec6d4b34.txt",
+      "type" : "text/plain",
+      "size" : 134
+    }, {
+      "uid" : "ca4fa325d580cb25",
+      "name" : "stdout",
+      "source" : "ca4fa325d580cb25.txt",
+      "type" : "text/plain",
+      "size" : 363
+    }, {
+      "uid" : "90006a6bda78499d",
+      "name" : "stderr",
+      "source" : "90006a6bda78499d.txt",
+      "type" : "text/plain",
+      "size" : 143
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite"
+  }, {
+    "name" : "suite",
+    "value" : "test_2"
+  }, {
+    "name" : "subSuite"
+  }, {
+    "name" : "host",
+    "value" : "pc-guohonggang"
+  }, {
+    "name" : "thread",
+    "value" : "9340-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_2"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "x",
+    "value" : "'b3604bc490b8ba559f72b9b912f28bc9'"
+  }, {
+    "name" : "y",
+    "value" : "'[[].'' /'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3a4298d8614ab5e.json",
+  "parameterValues" : [ "'b3604bc490b8ba559f72b9b912f28bc9'", "'[[].'' /'" ]
+}

@@ -1,0 +1,1 @@
+{'reason': 'success', 'result': [{'word': '[', 'telcode': ''}, {'word': '[', 'telcode': ''}, {'word': ']', 'telcode': ''}, {'word': '.', 'telcode': ''}, {'word': '\\', 'telcode': ''}, {'word': "'", 'telecode': '9984'}, {'word': '\\', 'telcode': ''}, {'word': "'", 'telecode': '9984'}, {'word': ' ', 'telcode': ''}, {'word': '/', 'telcode': ''}], 'error_code': 0}

@@ -1,0 +1,221 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "children" : [ {
+      "name" : "test_2",
+      "children" : [ {
+        "children" : [ {
+          "name" : "test_1[b3604bc490b8ba559f72b9b912f28bc9-12345]",
+          "uid" : "dfab5ba9f94f8f59",
+          "parentUid" : "9d514927ef052149839b0485cf88069d",
+          "status" : "passed",
+          "time" : {
+            "start" : 1567167234171,
+            "stop" : 1567167234551,
+            "duration" : 380
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'b3604bc490b8ba559f72b9b912f28bc9'", "'12345'" ]
+        }, {
+          "name" : "test_1[b3604bc490b8ba559f72b9b912f28bc9-自己]",
+          "uid" : "3e5a2614330135a6",
+          "parentUid" : "9d514927ef052149839b0485cf88069d",
+          "status" : "passed",
+          "time" : {
+            "start" : 1567167234695,
+            "stop" : 1567167234993,
+            "duration" : 298
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'b3604bc490b8ba559f72b9b912f28bc9'", "'自己'" ]
+        }, {
+          "name" : "test_1[b3604bc490b8ba559f72b9b912f28bc9-!@$%^$&^$]",
+          "uid" : "5f35348d81b64237",
+          "parentUid" : "9d514927ef052149839b0485cf88069d",
+          "status" : "passed",
+          "time" : {
+            "start" : 1567167235039,
+            "stop" : 1567167235348,
+            "duration" : 309
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'b3604bc490b8ba559f72b9b912f28bc9'", "'!@$%^$&^$'" ]
+        }, {
+          "name" : "test_1[b3604bc490b8ba559f72b9b912f28bc9-[[].'' /]",
+          "uid" : "3a4298d8614ab5e",
+          "parentUid" : "9d514927ef052149839b0485cf88069d",
+          "status" : "passed",
+          "time" : {
+            "start" : 1567167235418,
+            "stop" : 1567167235626,
+            "duration" : 208
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'b3604bc490b8ba559f72b9b912f28bc9'", "'[[].'' /'" ]
+        }, {
+          "name" : "test_1[b3604bc490b8ba559f72b9b912f28bc9-12qw自己31./$]",
+          "uid" : "f52c20d36e3225a7",
+          "parentUid" : "9d514927ef052149839b0485cf88069d",
+          "status" : "passed",
+          "time" : {
+            "start" : 1567167235748,
+            "stop" : 1567167236048,
+            "duration" : 300
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'b3604bc490b8ba559f72b9b912f28bc9'", "'12qw自己31./$'" ]
+        } ],
+        "uid" : "9d514927ef052149839b0485cf88069d"
+      } ],
+      "uid" : "d297d0c1c8ffe0ab7f2241e11bd3dacc"
+    } ],
+    "uid" : "84e4fb228aa5651a31b5ca4d2bc531de"
+  }, {
+    "name" : "src.T1",
+    "children" : [ {
+      "name" : "test_2",
+      "children" : [ {
+        "children" : [ {
+          "name" : "test_1[b3604bc490b8ba559f72b9b912f28bc9-12345]",
+          "uid" : "5f891d5793311a8b",
+          "parentUid" : "9942d56281886e7b90fd7a4e3b9bcec0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1567170201360,
+            "stop" : 1567170201718,
+            "duration" : 358
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'b3604bc490b8ba559f72b9b912f28bc9'", "'12345'" ]
+        }, {
+          "name" : "test_1[b3604bc490b8ba559f72b9b912f28bc9-自己]",
+          "uid" : "81cda78f3644f5a9",
+          "parentUid" : "9942d56281886e7b90fd7a4e3b9bcec0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1567170201757,
+            "stop" : 1567170201893,
+            "duration" : 136
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'b3604bc490b8ba559f72b9b912f28bc9'", "'自己'" ]
+        }, {
+          "name" : "test_1[b3604bc490b8ba559f72b9b912f28bc9-!@$%^$&^$]",
+          "uid" : "e3db3369ef95773f",
+          "parentUid" : "9942d56281886e7b90fd7a4e3b9bcec0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1567170201927,
+            "stop" : 1567170202059,
+            "duration" : 132
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'b3604bc490b8ba559f72b9b912f28bc9'", "'!@$%^$&^$'" ]
+        }, {
+          "name" : "test_1[b3604bc490b8ba559f72b9b912f28bc9-[[].'' /]",
+          "uid" : "3d112117e8ba24b5",
+          "parentUid" : "9942d56281886e7b90fd7a4e3b9bcec0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1567170202090,
+            "stop" : 1567170202222,
+            "duration" : 132
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'b3604bc490b8ba559f72b9b912f28bc9'", "'[[].'' /'" ]
+        }, {
+          "name" : "test_1[b3604bc490b8ba559f72b9b912f28bc9-12qw自己31./$]",
+          "uid" : "b9a56f067bb1dd07",
+          "parentUid" : "9942d56281886e7b90fd7a4e3b9bcec0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1567170202254,
+            "stop" : 1567170202388,
+            "duration" : 134
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'b3604bc490b8ba559f72b9b912f28bc9'", "'12qw自己31./$'" ]
+        }, {
+          "name" : "test_2[ - ]",
+          "uid" : "2f4203eda607d963",
+          "parentUid" : "9942d56281886e7b90fd7a4e3b9bcec0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1567170202464,
+            "stop" : 1567170202588,
+            "duration" : 124
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "' '", "' '" ]
+        }, {
+          "name" : "test_2[b3604bc490b8ba559f72b9b912f28bc- ]",
+          "uid" : "14afe49efa8878ea",
+          "parentUid" : "9942d56281886e7b90fd7a4e3b9bcec0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1567170202878,
+            "stop" : 1567170203051,
+            "duration" : 173
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'b3604bc490b8ba559f72b9b912f28bc'", "' '" ]
+        }, {
+          "name" : "test_2[b3604bc490b8ba559f72b9b912f28bc9- ]",
+          "uid" : "d89f175796e474ec",
+          "parentUid" : "9942d56281886e7b90fd7a4e3b9bcec0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1567170203082,
+            "stop" : 1567170203271,
+            "duration" : 189
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'b3604bc490b8ba559f72b9b912f28bc9'", "' '" ]
+        }, {
+          "name" : "test_2[b3604bc490b8ba559f72b9b912f28bc9-在方言中，对妮子的称呼又有不同。例如，东北话：小蹄子，天津话：小闺女儿，北京话：丫头。在河南方言中，妮子也表示未成年女孩，女儿的意思，例如：“×××的妮子”就是表示“×××的女儿”]",
+          "uid" : "41b74d6442cc2af9",
+          "parentUid" : "9942d56281886e7b90fd7a4e3b9bcec0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1567170203305,
+            "stop" : 1567170203527,
+            "duration" : 222
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'b3604bc490b8ba559f72b9b912f28bc9'", "'在方言中，对妮子的称呼又有不同。例如，东北话：小蹄子，天津话：小闺女儿，北京话：丫头。在河南方言中，妮子也表示未成年女孩，女儿的意思，例如：“×××的妮子”就是表示“×××的女儿”'" ]
+        }, {
+          "name" : "test_2[ -!@$%^$&^$]",
+          "uid" : "f93c927fd77c79d9",
+          "parentUid" : "9942d56281886e7b90fd7a4e3b9bcec0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1567170203578,
+            "stop" : 1567170203703,
+            "duration" : 125
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "' '", "'!@$%^$&^$'" ]
+        } ],
+        "uid" : "9942d56281886e7b90fd7a4e3b9bcec0"
+      } ],
+      "uid" : "7e96740ce5455c56ea07c0c79a288e0b"
+    } ],
+    "uid" : "b9566c6f8b9b59679e11f453f20135dc"
+  } ]
+}

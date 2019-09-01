@@ -1,0 +1,2 @@
+[32mINFO    [0m filename:test_2.py:17 请求成功
+[32mINFO    [0m filename:test_2.py:34 【正确的key】，正确的【chars】

@@ -1,0 +1,1 @@
+{'reason': 'success', 'result': [{'word': '1', 'telcode': ''}, {'word': '2', 'telcode': ''}, {'word': '3', 'telcode': ''}, {'word': '4', 'telcode': ''}, {'word': '5', 'telcode': ''}], 'error_code': 0}

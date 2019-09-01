@@ -1,0 +1,103 @@
+{
+  "uid" : "5f35348d81b64237",
+  "name" : "test_1[b3604bc490b8ba559f72b9b912f28bc9-!@$%^$&^$]",
+  "fullName" : "test_2#test_1[b3604bc490b8ba559f72b9b912f28bc9-!@$%^$&^$]",
+  "historyId" : "87de0ee7e60b04ea7f669dfc479b7514",
+  "time" : {
+    "start" : 1567167235039,
+    "stop" : 1567167235348,
+    "duration" : 309
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "jk",
+    "time" : {
+      "start" : 1567167234170,
+      "stop" : 1567167234170,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5857e39f233ce789",
+      "name" : "log",
+      "source" : "5857e39f233ce789.txt",
+      "type" : "text/plain",
+      "size" : 134
+    }, {
+      "uid" : "1599828cbe4cb823",
+      "name" : "stdout",
+      "source" : "1599828cbe4cb823.txt",
+      "type" : "text/plain",
+      "size" : 441
+    }, {
+      "uid" : "a448eb5126869503",
+      "name" : "stderr",
+      "source" : "a448eb5126869503.txt",
+      "type" : "text/plain",
+      "size" : 142
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite"
+  }, {
+    "name" : "suite",
+    "value" : "test_2"
+  }, {
+    "name" : "subSuite"
+  }, {
+    "name" : "host",
+    "value" : "pc-guohonggang"
+  }, {
+    "name" : "thread",
+    "value" : "9340-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_2"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "x",
+    "value" : "'b3604bc490b8ba559f72b9b912f28bc9'"
+  }, {
+    "name" : "y",
+    "value" : "'!@$%^$&^$'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5f35348d81b64237.json",
+  "parameterValues" : [ "'b3604bc490b8ba559f72b9b912f28bc9'", "'!@$%^$&^$'" ]
+}

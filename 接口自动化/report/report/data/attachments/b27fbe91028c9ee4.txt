@@ -1,0 +1,2 @@
+[32mINFO    [0m filename:test_2.py:44 请求成功
+[32mINFO    [0m filename:test_2.py:61 【key】与【chars】错误

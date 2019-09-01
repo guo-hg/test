@@ -1,0 +1,25 @@
+{
+  "total" : 2,
+  "items" : [ {
+    "uid" : "b9566c6f8b9b59679e11f453f20135dc",
+    "name" : "src.T1",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 10,
+      "unknown" : 0,
+      "total" : 10
+    }
+  }, {
+    "uid" : "84e4fb228aa5651a31b5ca4d2bc531de",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    }
+  } ]
+}
