@@ -1,0 +1,61 @@
+{
+  "uid" : "36b22117f596f83e",
+  "name" : "test_1",
+  "fullName" : "T1.test_2#test_1",
+  "historyId" : "ef87de1afb52e13ce1eda10e8b6e797b",
+  "time" : {
+    "start" : 1565657740529,
+    "stop" : 1565657740530,
+    "duration" : 1
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 3 == 2",
+  "statusTrace" : "def test_1():\n        a = 1\n        b = 2\n        c = a + b\n        # 实际结果是3，预期结果是2\n        # 设定断言\n>       assert c == 2\nE       assert 3 == 2\n\nT1\\test_2.py:12: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "T1"
+  }, {
+    "name" : "suite",
+    "value" : "test_2"
+  }, {
+    "name" : "subSuite"
+  }, {
+    "name" : "host",
+    "value" : "pc-guohonggang"
+  }, {
+    "name" : "thread",
+    "value" : "11656-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "T1.test_2"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "36b22117f596f83e.json",
+  "parameterValues" : [ ]
+}

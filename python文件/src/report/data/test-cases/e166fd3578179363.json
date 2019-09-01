@@ -1,0 +1,55 @@
+{
+  "uid" : "e166fd3578179363",
+  "name" : "test_2",
+  "fullName" : "T1.test_1#test_2",
+  "historyId" : "99adfd47a4f0cf40f31e28025feea852",
+  "time" : {
+    "start" : 1565580339232,
+    "stop" : 1565580339233,
+    "duration" : 1
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 'python' in 'hello pytest'",
+  "statusTrace" : "def test_2():\n        str_1 = \"hello pytest\"\n        str_2 = \"python\"\n        # 设定断言，判断str_2 在 str_1内\n>       assert str_2 in str_1\nE       AssertionError: assert 'python' in 'hello pytest'\n\nT1\\test_1.py:20: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "T1"
+  }, {
+    "name" : "suite",
+    "value" : "test_1"
+  }, {
+    "name" : "subSuite"
+  }, {
+    "name" : "host",
+    "value" : "pc-guohonggang"
+  }, {
+    "name" : "thread",
+    "value" : "9692-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "T1.test_1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e166fd3578179363.json",
+  "parameterValues" : [ ]
+}

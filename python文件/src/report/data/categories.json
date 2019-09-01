@@ -1,0 +1,60 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: assert 3 == 2",
+      "children" : [ {
+        "name" : "test_1",
+        "uid" : "36b22117f596f83e",
+        "parentUid" : "7b84e6cd941b4c871982c9f8ae42f985",
+        "status" : "failed",
+        "time" : {
+          "start" : 1565657740529,
+          "stop" : 1565657740530,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7b84e6cd941b4c871982c9f8ae42f985"
+    }, {
+      "name" : "AssertionError: assert 'python' in 'hello pytest'",
+      "children" : [ {
+        "name" : "test_2",
+        "uid" : "f57be692f32ac0e5",
+        "parentUid" : "b8311430d219307c69182a30190174ea",
+        "status" : "failed",
+        "time" : {
+          "start" : 1565657740569,
+          "stop" : 1565657740570,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b8311430d219307c69182a30190174ea"
+    }, {
+      "name" : "AssertionError: assert 100 < 10",
+      "children" : [ {
+        "name" : "test_three",
+        "uid" : "135e98d87bf96696",
+        "parentUid" : "6a6a7c0bb33ad16a4f3b8d523a743a68",
+        "status" : "failed",
+        "time" : {
+          "start" : 1565657740580,
+          "stop" : 1565657740580,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6a6a7c0bb33ad16a4f3b8d523a743a68"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

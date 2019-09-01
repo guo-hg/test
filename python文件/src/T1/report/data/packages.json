@@ -1,0 +1,91 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "test_1",
+    "children" : [ {
+      "name" : "test_1",
+      "uid" : "ed02cdd3e061bb47",
+      "parentUid" : "c96c6cd108ae5a2aced319d051eb29ae",
+      "status" : "failed",
+      "time" : {
+        "start" : 1565593400018,
+        "stop" : 1565593400019,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_2",
+      "uid" : "55eac2d87f6aabaf",
+      "parentUid" : "c96c6cd108ae5a2aced319d051eb29ae",
+      "status" : "failed",
+      "time" : {
+        "start" : 1565593400051,
+        "stop" : 1565593400052,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_three",
+      "uid" : "1472be2f0cec4682",
+      "parentUid" : "c96c6cd108ae5a2aced319d051eb29ae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1565593400062,
+        "stop" : 1565593400062,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "c96c6cd108ae5a2aced319d051eb29ae"
+  }, {
+    "name" : "test_2",
+    "children" : [ {
+      "name" : "test_1",
+      "uid" : "412ebe13b478b556",
+      "parentUid" : "11588b54177683c19c54968ddc36c65a",
+      "status" : "failed",
+      "time" : {
+        "start" : 1565593400071,
+        "stop" : 1565593400071,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_2",
+      "uid" : "1fe627740833a6c3",
+      "parentUid" : "11588b54177683c19c54968ddc36c65a",
+      "status" : "failed",
+      "time" : {
+        "start" : 1565593400082,
+        "stop" : 1565593400082,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_three",
+      "uid" : "94872d64ae463dd6",
+      "parentUid" : "11588b54177683c19c54968ddc36c65a",
+      "status" : "failed",
+      "time" : {
+        "start" : 1565593400092,
+        "stop" : 1565593400092,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "11588b54177683c19c54968ddc36c65a"
+  } ]
+}

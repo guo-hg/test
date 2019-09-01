@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "pc-guohonggang",
+    "children" : [ {
+      "name" : "5992-MainThread",
+      "children" : [ {
+        "name" : "test_0",
+        "uid" : "656e7e2f8046d09d",
+        "parentUid" : "c5ef548ff6c0a150e668673bf91a108e",
+        "status" : "failed",
+        "time" : {
+          "start" : 1565577343825,
+          "stop" : 1565577343825,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c5ef548ff6c0a150e668673bf91a108e"
+    } ],
+    "uid" : "a64bfb680328fa4a168c031067203d2e"
+  } ]
+}

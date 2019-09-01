@@ -1,0 +1,91 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "pc-guohonggang",
+    "children" : [ {
+      "name" : "10460-MainThread",
+      "children" : [ {
+        "name" : "test_2",
+        "uid" : "55eac2d87f6aabaf",
+        "parentUid" : "7b7497e760cc72341022a5adc94bd498",
+        "status" : "failed",
+        "time" : {
+          "start" : 1565593400051,
+          "stop" : 1565593400052,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_three",
+        "uid" : "94872d64ae463dd6",
+        "parentUid" : "7b7497e760cc72341022a5adc94bd498",
+        "status" : "failed",
+        "time" : {
+          "start" : 1565593400092,
+          "stop" : 1565593400092,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_2",
+        "uid" : "1fe627740833a6c3",
+        "parentUid" : "7b7497e760cc72341022a5adc94bd498",
+        "status" : "failed",
+        "time" : {
+          "start" : 1565593400082,
+          "stop" : 1565593400082,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_1",
+        "uid" : "ed02cdd3e061bb47",
+        "parentUid" : "7b7497e760cc72341022a5adc94bd498",
+        "status" : "failed",
+        "time" : {
+          "start" : 1565593400018,
+          "stop" : 1565593400019,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_1",
+        "uid" : "412ebe13b478b556",
+        "parentUid" : "7b7497e760cc72341022a5adc94bd498",
+        "status" : "failed",
+        "time" : {
+          "start" : 1565593400071,
+          "stop" : 1565593400071,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_three",
+        "uid" : "1472be2f0cec4682",
+        "parentUid" : "7b7497e760cc72341022a5adc94bd498",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565593400062,
+          "stop" : 1565593400062,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7b7497e760cc72341022a5adc94bd498"
+    } ],
+    "uid" : "a64bfb680328fa4a168c031067203d2e"
+  } ]
+}

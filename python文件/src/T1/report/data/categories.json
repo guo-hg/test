@@ -1,0 +1,86 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: assert 3 == 2",
+      "children" : [ {
+        "name" : "test_1",
+        "uid" : "ed02cdd3e061bb47",
+        "parentUid" : "7b84e6cd941b4c871982c9f8ae42f985",
+        "status" : "failed",
+        "time" : {
+          "start" : 1565593400018,
+          "stop" : 1565593400019,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_1",
+        "uid" : "412ebe13b478b556",
+        "parentUid" : "7b84e6cd941b4c871982c9f8ae42f985",
+        "status" : "failed",
+        "time" : {
+          "start" : 1565593400071,
+          "stop" : 1565593400071,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7b84e6cd941b4c871982c9f8ae42f985"
+    }, {
+      "name" : "AssertionError: assert 'python' in 'hello pytest'",
+      "children" : [ {
+        "name" : "test_2",
+        "uid" : "55eac2d87f6aabaf",
+        "parentUid" : "b8311430d219307c69182a30190174ea",
+        "status" : "failed",
+        "time" : {
+          "start" : 1565593400051,
+          "stop" : 1565593400052,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_2",
+        "uid" : "1fe627740833a6c3",
+        "parentUid" : "b8311430d219307c69182a30190174ea",
+        "status" : "failed",
+        "time" : {
+          "start" : 1565593400082,
+          "stop" : 1565593400082,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b8311430d219307c69182a30190174ea"
+    }, {
+      "name" : "AssertionError: assert 100 < 10",
+      "children" : [ {
+        "name" : "test_three",
+        "uid" : "94872d64ae463dd6",
+        "parentUid" : "6a6a7c0bb33ad16a4f3b8d523a743a68",
+        "status" : "failed",
+        "time" : {
+          "start" : 1565593400092,
+          "stop" : 1565593400092,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6a6a7c0bb33ad16a4f3b8d523a743a68"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

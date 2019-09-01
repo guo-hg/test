@@ -1,0 +1,2 @@
+执行测试用例6
+执行teardown_class

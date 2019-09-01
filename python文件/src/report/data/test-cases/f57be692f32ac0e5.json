@@ -1,0 +1,61 @@
+{
+  "uid" : "f57be692f32ac0e5",
+  "name" : "test_2",
+  "fullName" : "T1.test_2#test_2",
+  "historyId" : "e1ea808ac4e396ad6aa0315381a1a540",
+  "time" : {
+    "start" : 1565657740569,
+    "stop" : 1565657740570,
+    "duration" : 1
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 'python' in 'hello pytest'",
+  "statusTrace" : "def test_2():\n        str_1 = \"hello pytest\"\n        str_2 = \"python\"\n        # 设定断言，判断str_2 在 str_1内\n>       assert str_2 in str_1\nE       AssertionError: assert 'python' in 'hello pytest'\n\nT1\\test_2.py:19: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "T1"
+  }, {
+    "name" : "suite",
+    "value" : "test_2"
+  }, {
+    "name" : "subSuite"
+  }, {
+    "name" : "host",
+    "value" : "pc-guohonggang"
+  }, {
+    "name" : "thread",
+    "value" : "11656-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "T1.test_2"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "f57be692f32ac0e5.json",
+  "parameterValues" : [ ]
+}
